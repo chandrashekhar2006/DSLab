@@ -78,7 +78,7 @@ int pop(int st[])
 {
 	if(top== -1)
 	{
-		pritf("\n ")
+		printf("\n ")
 	}
 }
 }
@@ -94,6 +94,7 @@ int pop(int st[])
 		
 	
 	
+
 
 
 
